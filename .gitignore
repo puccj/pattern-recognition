@@ -3,6 +3,7 @@ data/
 *Test*
 osfstorage-archive
 VerSe19.tar.gz
-results
+results*
 bad_images
 moose_run*
+ground_truth
